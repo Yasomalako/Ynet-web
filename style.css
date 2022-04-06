@@ -1,0 +1,133 @@
+*{
+    margin: 5px;
+    padding: 0;
+}
+body{
+    /* direction: rtl; */
+    font-family: Arial;
+}
+#logo{
+    margin-right: 90vh;
+    width: 100%;
+    z-index:  -1;
+    justify-content: center;
+    margin-top: -26vh;
+    text-align: center;
+    position: static;
+
+}
+.topnav {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    flex-grow: 1;
+    display: flex;
+    justify-content: space-evenly;
+    margin-left: 10px;
+    align-items: center;
+    background-color: red;
+    color: #f5f5f5;
+    margin-top: 20vh;
+    position: sticky;
+    margin-top: 20vw;
+    
+}
+a{
+    text-decoration: none;
+}
+.rashi{
+    color: #f5f5f5;
+}
+.ynet{
+    color: #f5f5f5;
+}
+.hadshot{
+    color: #f5f5f5;
+}
+.sport{
+    color: #f5f5f5;
+}
+.kalkala{
+    color: #f5f5f5;
+}
+.atarbut{
+    color: #f5f5f5;
+}
+.rechelut{
+    color: #f5f5f5;
+}
+.rechev{
+    color: #f5f5f5;
+}
+.digital{
+    color: #f5f5f5;
+}
+.laisha{
+    color:#f5f5f5;
+}
+.ohel{
+    color: #f5f5f5;
+}
+.yahdut{
+    color: #f5f5f5;
+}
+.od{
+    color: #f5f5f5;
+}
+.hepus{
+    color: #f5f5f5;
+}
+.table, td{
+    background-color: #d3dbd3;
+    font-size: 16px;
+}
+.h2{  
+    margin-top: 176px;
+    margin-bottom: 0px;
+    padding-left: 50px;
+    font-size: 50px;
+}
+#p2{
+    padding-left: 50px;
+    font-size: 16px;
+}
+.table{
+    border-left: 15px;
+    
+    
+    
+}
+.sect {
+    margin-top: 100px;
+    padding-right: 0px;
+    
+}
+#img{
+    width: 526px;
+    padding-left: 30px;
+    margin-right: 80vh;
+    margin-top: -23vh;
+}
+.sect1{
+    margin-top: 50px;
+    padding-right: 0px;
+}
+.h3{
+    font-size: 45px;
+}
+
+#img2{
+    width: 479px;
+    padding-left: 30px;
+    margin-right: 80vh;
+    margin-top: -33vh;
+}
+#img3{
+  padding-left: 30px;
+    margin-right: 80vh;
+    margin-top: -33vh;
+}
+#prsomet{
+    margin-top: -28vh;
+    
+    
+}
